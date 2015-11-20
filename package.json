@@ -1,0 +1,24 @@
+{
+  "name": "object-cloner",
+  "version": "0.0.1",
+  "description": "Creates performant functions for cloning objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzaloruizdevilla/object-cloner.git"
+  },
+  "keywords": [
+    "object",
+    "clone",
+    "cloner"
+  ],
+  "author": "Gonzalo Ruiz de Villa <gonzaloruizdevilla@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gonzaloruizdevilla/object-cloner/issues"
+  },
+  "homepage": "https://github.com/gonzaloruizdevilla/object-cloner#readme"
+}
