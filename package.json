@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/gonzaloruizdevilla/object-cloner/issues"
   },
-  "homepage": "https://github.com/gonzaloruizdevilla/object-cloner#readme"
+  "homepage": "https://github.com/gonzaloruizdevilla/object-cloner#readme",
+  "devDependencies": {
+    "tape": "^4.2.2"
+  }
 }
