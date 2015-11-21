@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/gonzaloruizdevilla/object-cloner#readme",
   "devDependencies": {
+    "tap-spec": "^4.1.0",
     "tape": "^4.2.2"
   }
 }
